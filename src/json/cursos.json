@@ -1,0 +1,301 @@
+[
+  {
+    "id": 1,
+    "cicle": 5,
+    "courses": [
+      {
+        "id": 1,
+        "name": "Análisis y Diseño de Algoritmos",
+        "cicle": 5,
+        "horarios": [
+          {
+            "id": 1,
+            "day": "Jueves",
+            "hour_initial": "18:00",
+            "hour_final": "22:00",
+            "teacher": "Prudencio Vidal, Javier Antonio",
+            "section": 1
+          },
+          {
+            "id": 2,
+            "day": "Jueves",
+            "hour_initial": "08:00",
+            "hour_final": "12:00",
+            "teacher": "Chavez Soto, Jorge Luis",
+            "section": 2
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Arquitectura de Computadoras",
+        "cicle": 5,
+        "horarios": [
+          {
+            "id": 3,
+            "day": "Miércoles",
+            "hour_initial": "14:00",
+            "hour_final": "18:00",
+            "teacher": "Aguilar Alonso, Igor Jovino",
+            "section": 1
+          },
+          {
+            "id": 4,
+            "day": "Miércoles",
+            "hour_initial": "14:00",
+            "hour_final": "18:00",
+            "teacher": "Pariona Quispe, Jaime Ruben",
+            "section": 2
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Calidad de Software",
+        "cicle": 5,
+        "horarios": [
+          {
+            "id": 5,
+            "day": "Lunes",
+            "hour_initial": "18:00",
+            "hour_final": "22:00",
+            "teacher": "Bartra More, Arturo Alejandro",
+            "section": 1
+          },
+          {
+            "id": 6,
+            "day": "Lunes",
+            "hour_initial": "18:00",
+            "hour_final": "22:00",
+            "teacher": "Sobero Rodriguez, Fany Yexenia",
+            "section": 2
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Computación Visual",
+        "cicle": 5,
+        "horarios": [
+          {
+            "id": 7,
+            "day": "Viernes",
+            "hour_initial": "18:00",
+            "hour_final": "22:00",
+            "teacher": "Trujillo Trejo, John Ledgard",
+            "section": 1
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Estructura de Datos",
+        "cicle": 5,
+        "horarios": [
+          {
+            "id": 8,
+            "day": "Martes",
+            "hour_initial": "17:00",
+            "hour_final": "22:00",
+            "teacher": "Prudencio Vidal, Javier Antonio",
+            "section": 1
+          },
+          {
+            "id": 9,
+            "day": "Lunes",
+            "hour_initial": "13:00",
+            "hour_final": "18:00",
+            "teacher": "Arredondo Castillo, Gustavo",
+            "section": 2
+          },
+          {
+            "id": 10,
+            "day": "Lunes",
+            "hour_initial": "13:00",
+            "hour_final": "18:00",
+            "teacher": "Lam Zhing Fong",
+            "section": 3
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Economía para la Gestión",
+        "cicle": 5,
+        "horarios": [
+          {
+            "id": 11,
+            "day": "Martes",
+            "hour_initial": "12:00",
+            "hour_final": "17:00",
+            "teacher": "------------",
+            "section": 1
+          },
+          {
+            "id": 12,
+            "day": "Martes",
+            "hour_initial": "12:00",
+            "hour_final": "17:00",
+            "teacher": "------------",
+            "section": 2
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Ingeniería de Requisitos",
+        "cicle": 5,
+        "horarios": [
+          {
+            "id": 13,
+            "day": "Miércoles",
+            "hour_initial": "18:00",
+            "hour_final": "22:00",
+            "teacher": "Rodriguez Rodriguez, Ciro",
+            "section": 1
+          },
+          {
+            "id": 14,
+            "day": "Viernes",
+            "hour_initial": "08:00",
+            "hour_final": "12:00",
+            "teacher": "Chavez Herrera, Carlos Ernesto",
+            "section": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "cicle": 4,
+    "courses": [
+      {
+        "id": 8,
+        "name": "Contabilidad para la Gestión",
+        "cicle": 4,
+        "horarios": [
+          {
+            "id": 15,
+            "day": "Viernes",
+            "hour_initial": "13:00",
+            "hour_final": "17:00",
+            "teacher": "Ayala Flores, Eva Carolina",
+            "section": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "cicle": 6,
+    "courses": [
+      {
+        "id": 9,
+        "name": "Aseguramiento de la Calidad de Software",
+        "cicle": 6,
+        "horarios": [
+          {
+            "id": 16,
+            "day": "Miércoles",
+            "hour_initial": "18:00",
+            "hour_final": "22:00",
+            "teacher": "Huapaya Chumpitaz, Mario Agustin",
+            "section": 1
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Base de Datos I",
+        "cicle": 6,
+        "horarios": [
+          {
+            "id": 17,
+            "day": "Sábado",
+            "hour_initial": "18:00",
+            "hour_final": "22:00",
+            "teacher": "Murakami De la Cruz, Sumiko Elizabeth",
+            "section": 1
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Diseño de Software",
+        "cicle": 6,
+        "horarios": [
+          {
+            "id": 18,
+            "day": "Sábado",
+            "hour_initial": "13:00",
+            "hour_final": "18:00",
+            "teacher": "Cordero Sanchez, Hugo Rafael",
+            "section": 1
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Formación de Empresas de Software",
+        "cicle": 6,
+        "horarios": [
+          {
+            "id": 19,
+            "day": "Miércoles",
+            "hour_initial": "08:00",
+            "hour_final": "12:00",
+            "teacher": "Bayona Oré, Luz Sussy",
+            "section": 1
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Gestión de Configuración del Software",
+        "cicle": 6,
+        "horarios": [
+          {
+            "id": 20,
+            "day": "Jueves",
+            "hour_initial": "13:00",
+            "hour_final": "18:00",
+            "teacher": "Wong Portillo, Lenis Rossi",
+            "section": 1
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Interacción Hombre-Computador",
+        "cicle": 6,
+        "horarios": [
+          {
+            "id": 21,
+            "day": "Martes",
+            "hour_initial": "18:00",
+            "hour_final": "22:00",
+            "teacher": "Lopez Villanueva, Pablo Edwin",
+            "section": 1
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Sistemas Operativos",
+        "cicle": 6,
+        "horarios": [
+          {
+            "id": 22,
+            "day": "Viernes",
+            "hour_initial": "08:00",
+            "hour_final": "12:00",
+            "teacher": "Díaz Muñante, Jorge Raul",
+            "section": 1
+          }
+        ]
+      }
+    ]
+  } 
+]
